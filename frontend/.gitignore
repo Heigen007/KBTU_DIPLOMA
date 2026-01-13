@@ -1,0 +1,8 @@
+
+node_modules
+
+# Quasar core related directories
+.quasar
+/dist
+# local .env files
+.env.local*

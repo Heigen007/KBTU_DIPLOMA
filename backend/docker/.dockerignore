@@ -1,0 +1,26 @@
+# служебные папки/файлы
+.git
+.gitignore
+.vscode
+.idea
+
+# сборочные артефакты и кэш
+dist
+docker
+docs
+coverage
+logs/*
+node_modules
+
+# тесты и конфиги для тестов
+tests
+jest.config.ts
+
+# документация и прочее
+README.md
+*.md
+tgMiniApp
+
+# env-файлы (чтобы не утекли секреты в образ)
+.env
+.env.example

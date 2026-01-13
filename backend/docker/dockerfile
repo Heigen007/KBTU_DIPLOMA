@@ -1,0 +1,57 @@
+###############################
+# Этап 1: сборка и компиляция #
+###############################
+FROM node:22-alpine AS build
+
+# Установка рабочей директории
+WORKDIR /app
+
+# Копирование package.json и package-lock.json
+COPY package*.json ./
+
+# Копирование tsconfig.json
+COPY tsconfig.json ./
+
+# Установка всех зависимостей
+RUN npm install
+
+# Копирование исходного кода
+COPY . .
+
+# Компиляция TypeScript
+RUN npx tsc
+
+##################################################
+# Этап 2: создание минимального конечного образа #
+##################################################
+FROM node:22-alpine
+
+# Установка часового пояса
+ENV TZ=Etc/GMT-5
+
+# Установка рабочей директории
+WORKDIR /app
+
+# Копирование директории frontend
+COPY frontend ./frontend
+
+# Копирование tsconfig.json
+COPY tsconfig.json ./
+
+# Копирование docker/.env.docker в /app/.env (исключая комментарии, пустые строки и переменные окружения для репозитория Harbor)
+COPY docker/.env.docker /tmp/.env
+RUN grep -v '^\s*#' /tmp/.env | grep -v '^\s*$' | grep -v HARBOR_USERNAME | grep -v HARBOR_PASSWORD > /app/.env && rm /tmp/.env
+
+# Установка production-зависимостей и удаление кеша npm
+COPY package*.json ./
+RUN npm install --omit=dev && npm cache clean --force
+
+# Копирование скомпилированных файлов в каталог src для правильного разрешения путей
+COPY --from=build /app/dist ./src
+
+# Экспорт порта
+EXPOSE 3001
+
+# Запуск приложения с использованием node и tsconfig-paths
+ENTRYPOINT ["node", "--max-http-header-size=4096", "-r", "tsconfig-paths/register"]
+CMD ["src/index.js"]

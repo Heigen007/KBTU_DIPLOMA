@@ -1,0 +1,208 @@
+/* app global css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+/* Design tokens inspired by Claude light theme (neutral, warm, low-chroma) */
+:root {
+  /* Palette */
+  --color-bg: #f8f7f5; /* warm off-white */
+  --color-surface: #ffffff;
+  --color-surface-alt: #fcfbfa;
+  --color-border: #e5e3df;
+  --color-border-strong: #d7d4cf;
+  --color-text: #1f1f1d;
+  --color-text-secondary: #6a6965;
+  --color-text-faint: #9a9894;
+  --color-accent: #e26f42; /* soft orange accent */
+  --color-accent-rgb: 226,111,66;
+  --color-accent-soft: #fbe9e1;
+  --color-danger: #d65348;
+  --color-success: #4f8a54;
+  --color-warning: #c88719;
+
+  /* Shadows (kept subtle) */
+  --shadow-s: 0 1px 2px rgba(0,0,0,0.04), 0 0 0 1px var(--color-border);
+  --shadow-hover: 0 2px 4px rgba(0,0,0,0.06), 0 0 0 1px var(--color-border-strong);
+
+  /* Radius scale */
+  --radius-xs: 3px;
+  --radius-s: 6px;
+  --radius-m: 8px;
+  --radius-l: 12px;
+
+  /* Spacing scale (4px grid) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+
+  /* Typography */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --text-xs: 11px;
+  --text-s: 13px;
+  --text-m: 14px;
+  --text-l: 16px;
+  --text-xl: 20px;
+}
+
+body {
+  font-family: var(--font-sans);
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.4;
+}
+
+/* Quasar + theme overrides */
+.bg-primary {
+  background: var(--color-surface) !important;
+  color: var(--color-text) !important;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.text-primary { color: var(--color-accent) !important; }
+
+.q-toolbar { min-height: 48px; padding: 0 var(--space-3); }
+
+.app-title { font-size: var(--text-l); font-weight: 600; letter-spacing: .5px; }
+
+/* Inputs */
+.q-field--filled .q-field__control, .q-field--outlined .q-field__control {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  box-shadow: none;
+  border-radius: var(--radius-s);
+  transition: border-color .15s, background .15s;
+}
+.q-field--filled.q-field--focused .q-field__control,
+.q-field--outlined.q-field--focused .q-field__control {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 1px rgba(var(--color-accent-rgb), .35);
+}
+
+.q-field__native, .q-placeholder { font-size: var(--text-m); }
+
+/* Buttons */
+.q-btn {
+  border-radius: var(--radius-s);
+  font-weight: 500;
+  letter-spacing: .25px;
+}
+
+.q-btn--flat, .q-btn--standard {
+  box-shadow: none !important;
+}
+
+.q-btn.bg-primary, .q-btn.text-primary { color: var(--color-text); }
+
+.q-btn.accent, .q-btn--standard.accent {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.q-btn.accent:hover { filter: brightness(1.05); }
+
+/* Utility classes */
+.surface { background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-m); }
+.compact-gap { gap: var(--space-2); }
+.dense { padding: var(--space-3); }
+
+/* Scroll area refinements */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: var(--color-bg); }
+::-webkit-scrollbar-thumb { background: #c8c5c0; border-radius: 6px; border: 2px solid var(--color-bg); }
+::-webkit-scrollbar-thumb:hover { background: #b3b0ab; }
+
+/* Focus styles */
+.q-field--focused .q-field__control, .q-field--focused .q-field__native { outline: none; }
+
+/* Card / item base */
+.list-vertical { display: flex; flex-direction: column; gap: var(--space-2); }
+
+/* Animation (kept subtle) */
+
+.fade-enter-active, .fade-leave-active { transition: opacity .15s; }
+.fade-enter, .fade-leave-to { opacity: 0; }
+
+/* Header specific tweaks (icon color accent) */
+header .title-icon { color: var(--color-accent); }
+
+/* Remove heavy shadows from Quasar defaults where applied */
+.q-card, .q-banner, .q-dialog__inner > div { box-shadow: var(--shadow-s) !important; }
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 1024px) {
+  .q-toolbar { 
+    min-height: 56px; 
+    padding: 0 16px; 
+  }
+  
+  .q-page {
+    padding: 16px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  ::-webkit-scrollbar { 
+    width: 6px; 
+  }
+  
+  .q-table {
+    font-size: 13px;
+  }
+  
+  .q-card {
+    border-radius: var(--radius-m);
+  }
+}
+
+@media (max-width: 480px) {
+  .q-toolbar { 
+    min-height: 48px; 
+    padding: 0 12px; 
+  }
+  
+  .q-page {
+    padding: 12px !important;
+  }
+  
+  .q-table {
+    font-size: 12px;
+  }
+  
+  .q-btn {
+    font-size: 13px;
+    padding: 6px 12px;
+  }
+}
+
+/* Улучшение читаемости на маленьких экранах */
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.3;
+  }
+}
+
+/* Убираем hover эффекты на touch устройствах */
+@media (hover: none) {
+  .q-btn:hover {
+    filter: none !important;
+  }
+  
+  .order-card:hover,
+  .stat-box:hover {
+    transform: none !important;
+  }
+}
