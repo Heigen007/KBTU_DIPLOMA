@@ -6,7 +6,6 @@ import { infoRouter } from './routers/infoRouter'
 import { requestContext, setGlobalRequestId } from './common/requestContextStorage'
 import { AppConfig } from './AppConfig'
 import { logger } from './common/logger'
-import { analyzeRouter } from './routers/analyzeRouter'
 
 let globalRequestId = 1
 
@@ -30,7 +29,6 @@ export function createApp() {
     // Роуты API
     app.use('/api/logs', logsRouter)
     app.use('/api/info', infoRouter)
-    app.use('/api/analyze', analyzeRouter)
 
     // Health-check endpoint
     app.get('/api/', (_req: any, res: any) => {
