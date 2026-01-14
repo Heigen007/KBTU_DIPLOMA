@@ -11,13 +11,15 @@
 
 ```
 backend/src/humanDataset/
-├── originsForHumanDataset/       # Исходные файлы
-│   ├── original_essay.json       # 480 эссе
-│   ├── original_news.json        # 480 новостей
-│   └── orig_scientific.json      # 479 научных текстов
-├── train.csv                     # Train set из AINL-Eval-2025
-├── fullHumanDataset.json         # Полный датасет (9965 записей)
-└── trainingHumanDataset.json     # Тестовый датасет (200 записей)
+├── originsForHumanDataset/           # Исходные файлы
+│   ├── original_essay.json           # 480 эссе
+│   ├── original_news.json            # 480 новостей
+│   └── orig_scientific.json          # 479 научных текстов
+├── train.csv                         # Train set из AINL-Eval-2025
+├── fullHumanDataset.json             # Полный датасет (9965 записей)
+├── fullHumanDatasetFiltered.json     # Отфильтрованный (9290, <500 токенов)
+├── trainingHumanDataset.json         # Тестовый датасет (200 записей)
+└── trainingHumanDatasetFiltered.json # Отфильтрованный (116, <500 токенов)
 ```
 
 ## Шаги подготовки
@@ -65,6 +67,24 @@ node mergeJsons.js
 npx ts-node src/humanDataset/normalizeIds.ts
 ```
 
+### 6. Фильтрация по токенам
+
+RuBERT имеет лимит 512 токенов. Фильтруем записи, оставляя только тексты < 500 токенов.
+
+```bash
+npx ts-node src/humanDataset/filterByTokens.ts
+```
+
+Скрипт:
+- Использует токенизатор `bert-base-multilingual-cased`
+- Фильтрует записи с количеством токенов < 500
+- Создаёт `*Filtered.json` файлы
+
+| Датасет | До | После | Удалено |
+|---------|-----|-------|---------|
+| fullHumanDataset | 9965 | 9290 | 675 |
+| trainingHumanDataset | 200 | 116 | 84 |
+
 ## Формат записи
 
 ```json
@@ -77,7 +97,9 @@ npx ts-node src/humanDataset/normalizeIds.ts
 
 ## Статистика
 
-| Датасет | Записей | ID |
-|---------|---------|-----|
-| fullHumanDataset.json | 9965 | 1–9965 |
-| trainingHumanDataset.json | 200 | 1–200 |
+| Датасет | Записей |
+|---------|---------|
+| fullHumanDataset.json | 9965 |
+| fullHumanDatasetFiltered.json | 9290 |
+| trainingHumanDataset.json | 200 |
+| trainingHumanDatasetFiltered.json | 116 |

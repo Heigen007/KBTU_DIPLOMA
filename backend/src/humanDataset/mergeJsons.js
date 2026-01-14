@@ -1,36 +1,38 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataDir = path.join(__dirname, '..', 'data');
+const originsDir = path.join(__dirname, 'originsForHumanDataset');
 
-// Пути к оригинальным файлам
-const essayPath = path.join(dataDir, 'essay', 'original_essay.json');
-const newsPath = path.join(dataDir, 'news', 'original_news.json');
-const scientificPath = path.join(dataDir, 'scientific_texts', 'orig_scientific.json');
-const trainCsvPath = path.join(dataDir, 'train.csv');
+// Пути к файлам
+const essayPath = path.join(originsDir, 'original_essay.json');
+const newsPath = path.join(originsDir, 'original_news.json');
+const scientificPath = path.join(originsDir, 'orig_scientific.json');
+const trainCsvPath = path.join(originsDir, 'train.csv');
 
 // Читаем JSON файлы
 const essays = JSON.parse(fs.readFileSync(essayPath, 'utf-8'));
 const news = JSON.parse(fs.readFileSync(newsPath, 'utf-8'));
 const scientific = JSON.parse(fs.readFileSync(scientificPath, 'utf-8'));
 
+console.log(`Essays: ${essays.length}`);
+console.log(`News: ${news.length}`);
+console.log(`Scientific: ${scientific.length}`);
+
 // Читаем и парсим CSV
 function parseCSV(content) {
     const lines = content.split('\n');
     const results = [];
 
-    for (let i = 1; i < lines.length; i++) { // пропускаем заголовок
+    for (let i = 1; i < lines.length; i++) {
         const line = lines[i].trim();
         if (!line) continue;
 
-        // Находим последнюю запятую (label всегда в конце без кавычек)
         const lastCommaIndex = line.lastIndexOf(',');
         if (lastCommaIndex === -1) continue;
 
         let text = line.substring(0, lastCommaIndex);
         const label = line.substring(lastCommaIndex + 1);
 
-        // Убираем кавычки если есть
         if (text.startsWith('"') && text.endsWith('"')) {
             text = text.slice(1, -1);
         }
@@ -43,10 +45,17 @@ function parseCSV(content) {
 const trainCsv = parseCSV(fs.readFileSync(trainCsvPath, 'utf-8'));
 const humanFromCsv = trainCsv
     .filter(row => row.label === 'human')
-    .map(row => ({ text: row.text, dataset: 'train.csv' }));
+    .map(row => ({ text: row.text, dataset: 'AINL-Eval-2025 train.csv' }));
+
+console.log(`CSV human: ${humanFromCsv.length}`);
 
 // Объединяем все записи
-const allRecords = [...essays, ...news, ...scientific, ...humanFromCsv];
+const allRecords = [
+    ...essays.map(r => ({ text: r.text, dataset: r.dataset })),
+    ...news.map(r => ({ text: r.text, dataset: r.dataset })),
+    ...scientific.map(r => ({ text: r.text, dataset: r.dataset })),
+    ...humanFromCsv
+];
 
 // Функция очистки текста
 function cleanText(text) {
@@ -65,8 +74,8 @@ const result = allRecords.map((record, index) => ({
 }));
 
 // Сохраняем результат
-const outputPath = path.join(dataDir, 'merged_articles.json');
+const outputPath = path.join(__dirname, 'fullHumanDataset.json');
 fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf-8');
 
-console.log(`Готово! Объединено ${result.length} записей`);
+console.log(`\nГотово! Объединено ${result.length} записей`);
 console.log(`Файл сохранён: ${outputPath}`);
