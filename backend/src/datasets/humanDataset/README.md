@@ -6,6 +6,25 @@
 |----------|-------------|--------|
 | Ru-hard-detection-dataset | [CoffeBank/Ru-hard-detection-dataset](https://github.com/CoffeBank/Ru-hard-detection-dataset) | Оригинальные тексты (news, essays, scientific) |
 | AINL-Eval-2025 | [iis-research-team/AINL-Eval-2025](https://github.com/iis-research-team/AINL-Eval-2025) | Train set (human-labeled) |
+| CoAT | [RussianNLP/CoAT](https://github.com/RussianNLP/CoAT) | datasets/binary/train.csv (label=0, >150 слов) |
+
+### CoAT (Corpus of Artificial Texts)
+
+Крупный корпус для русского языка, содержащий 246k человеческих текстов и искусственные тексты от 13 нейросетевых моделей.
+
+**Цитирование:**
+```bibtex
+@article{shamardina2025coat,
+  title={CoAT: Corpus of artificial texts},
+  author={Shamardina, Tatiana and Saidov, Marat and Fenogenova, Alena and others},
+  journal={Natural Language Processing},
+  volume={31},
+  number={1},
+  pages={150--175},
+  year={2025},
+  publisher={Cambridge University Press}
+}
+```
 
 ## Структура файлов
 
@@ -15,7 +34,8 @@ backend/src/datasets/humanDataset/
 │   ├── original_essay.json           # 480 эссе
 │   ├── original_news.json            # 480 новостей
 │   ├── orig_scientific.json          # 479 научных текстов
-│   └── train.csv                     # Train set из AINL-Eval-2025
+│   ├── train.csv                     # Train set из AINL-Eval-2025
+│   └── train2.csv                    # CoAT binary dataset
 ├── output/                           # Результирующие датасеты
 │   ├── fullHumanDataset.json         # Полный датасет
 │   ├── fullHumanDatasetFiltered.json # Отфильтрованный (<500 токенов)
@@ -98,7 +118,17 @@ RuBERT имеет лимит 512 токенов. Скрипт:
 
 | Датасет | Записей |
 |---------|---------|
-| fullHumanDataset.json | ~10200 |
-| fullHumanDatasetFiltered.json | ~9500 |
+| fullHumanDataset.json | 12514 |
+| fullHumanDatasetFiltered.json | 11725 |
 | trainingHumanDataset.json | 200 |
-| trainingHumanDatasetFiltered.json | ~116 |
+| trainingHumanDatasetFiltered.json | 116 |
+
+### По источникам
+
+| Источник | Записей |
+|----------|---------|
+| Essays | 480 |
+| News | 480 |
+| Scientific | 479 |
+| AINL-Eval-2025 train.csv | 8769 |
+| RussianNLP/CoAT (>150 слов) | 2306 |

@@ -68,11 +68,6 @@ async function main() {
         path.join(outputDir, "fullHumanDatasetFiltered.json")
     );
 
-    await filterDataset(
-        path.join(outputDir, "trainingHumanDataset.json"),
-        path.join(outputDir, "trainingHumanDatasetFiltered.json")
-    );
-
     console.log("\nDone!");
 }
 
