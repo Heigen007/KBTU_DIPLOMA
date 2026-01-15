@@ -5,7 +5,7 @@ export class OpenAIGenerator extends AIGeneratorFarm {
     private client: OpenAI;
     private model: string;
 
-    constructor(apiKey: string, model: string = "gpt-4o-mini") {
+    constructor(apiKey: string, model: string) {
         super(apiKey, model);
         this.client = new OpenAI({ apiKey });
         this.model = model;

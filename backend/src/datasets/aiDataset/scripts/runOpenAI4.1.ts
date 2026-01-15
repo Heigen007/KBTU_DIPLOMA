@@ -4,8 +4,8 @@ import { OpenAIGenerator } from "../generators";
 dotenv.config();
 
 const API_KEY = process.env.OPENAI_API_KEY;
-const MODEL = process.env.OPENAI_MODEL || "gpt-5.2";
-const TOPICS_PER_TYPE = 20; // 20 тем × 3 типа = 60 текстов
+const MODEL = process.env.OPENAI_MODEL || "gpt-4.1";
+const TOPICS_PER_TYPE = 2; // 20 тем × 3 типа = 60 текстов
 
 async function main() {
     if (!API_KEY) {
