@@ -10,7 +10,7 @@
 ## Структура файлов
 
 ```
-backend/humanDataset/
+backend/src/datasets/humanDataset/
 ├── originsForHumanDataset/           # Исходные файлы
 │   ├── original_essay.json           # 480 эссе
 │   ├── original_news.json            # 480 новостей

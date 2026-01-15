@@ -5,7 +5,8 @@
       "Bash(node mergeJsons.js:*)",
       "Bash(npx ts-node:*)",
       "Bash(npm install:*)",
-      "Bash(npm run prepare-dataset:*)"
+      "Bash(npm run prepare-dataset:*)",
+      "Bash(npx tsc:*)"
     ]
   }
 }

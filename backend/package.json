@@ -7,7 +7,9 @@
     "build": "npx tsc",
     "inspectDev": "nodemon --watch \"src/**/*\" -e ts,json --exec \"node --inspect -r ts-node/register -r tsconfig-paths/register src/index.ts\"",
     "dev": "nodemon -r tsconfig-paths/register ./src/index.ts",
-    "prepare-dataset": "npx ts-node humanDataset/mergeJsons.ts && npx ts-node humanDataset/filterByTokens.ts"
+    "prepare-dataset": "npx ts-node src/datasets/humanDataset/mergeJsons.ts && npx ts-node src/datasets/humanDataset/filterByTokens.ts",
+    "merge-ai-dataset": "npx ts-node src/datasets/aiDataset/scripts/mergeDatasets.ts",
+    "generate-openai": "npx ts-node src/datasets/aiDataset/scripts/runOpenAI.ts"
   },
   "keywords": [],
   "author": "",
