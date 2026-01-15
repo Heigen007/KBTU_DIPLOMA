@@ -6,7 +6,8 @@
   "scripts": {
     "build": "npx tsc",
     "inspectDev": "nodemon --watch \"src/**/*\" -e ts,json --exec \"node --inspect -r ts-node/register -r tsconfig-paths/register src/index.ts\"",
-    "dev": "nodemon -r tsconfig-paths/register ./src/index.ts"
+    "dev": "nodemon -r tsconfig-paths/register ./src/index.ts",
+    "prepare-dataset": "npx ts-node humanDataset/mergeJsons.ts && npx ts-node humanDataset/filterByTokens.ts"
   },
   "keywords": [],
   "author": "",

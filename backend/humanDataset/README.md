@@ -10,31 +10,43 @@
 ## Структура файлов
 
 ```
-backend/src/humanDataset/
+backend/humanDataset/
 ├── originsForHumanDataset/           # Исходные файлы
 │   ├── original_essay.json           # 480 эссе
 │   ├── original_news.json            # 480 новостей
-│   └── orig_scientific.json          # 479 научных текстов
-├── train.csv                         # Train set из AINL-Eval-2025
-├── fullHumanDataset.json             # Полный датасет (9965 записей)
-├── fullHumanDatasetFiltered.json     # Отфильтрованный (9290, <500 токенов)
-├── trainingHumanDataset.json         # Тестовый датасет (200 записей)
-└── trainingHumanDatasetFiltered.json # Отфильтрованный (116, <500 токенов)
+│   ├── orig_scientific.json          # 479 научных текстов
+│   └── train.csv                     # Train set из AINL-Eval-2025
+├── output/                           # Результирующие датасеты
+│   ├── fullHumanDataset.json         # Полный датасет
+│   ├── fullHumanDatasetFiltered.json # Отфильтрованный (<500 токенов)
+│   ├── trainingHumanDataset.json     # Тестовый датасет
+│   └── trainingHumanDatasetFiltered.json
+├── mergeJsons.ts                     # Скрипт объединения
+├── filterByTokens.ts                 # Скрипт фильтрации
+└── README.md
 ```
 
-## Шаги подготовки
+## Быстрый старт
+
+```bash
+cd backend
+npm run prepare-dataset
+```
+
+Эта команда запускает оба скрипта последовательно:
+1. `mergeJsons.ts` — объединяет исходные данные
+2. `filterByTokens.ts` — фильтрует по лимиту токенов
+
+## Шаги подготовки (вручную)
 
 ### 1. Скачивание исходных данных
 
 ```bash
-# Ru-hard-detection-dataset
 git clone https://github.com/CoffeBank/Ru-hard-detection-dataset
-
-# AINL-Eval-2025
 git clone https://github.com/iis-research-team/AINL-Eval-2025
 ```
 
-### 2. Копирование файлов
+### 2. Копирование файлов в originsForHumanDataset/
 
 Из `Ru-hard-detection-dataset/main/`:
 - `news/original_news.json`
@@ -47,43 +59,30 @@ git clone https://github.com/iis-research-team/AINL-Eval-2025
 ### 3. Объединение датасетов
 
 ```bash
-cd backend/src/humanDataset
-node mergeJsons.js
+npx ts-node humanDataset/mergeJsons.ts
 ```
 
 Скрипт:
 - Парсит JSON файлы из Ru-hard-detection-dataset
 - Извлекает записи с `label: "human"` из train.csv
 - Очищает тексты (удаляет "Введение" в начале)
-- Объединяет всё в единый формат
+- Сохраняет в `output/fullHumanDataset.json`
 
 ### 4. Формирование тестового датасета
 
-Из `fullHumanDataset.json` вручную выбрано 200 записей для `trainingHumanDataset.json`.
+Вручную выбрать записи для `output/trainingHumanDataset.json`.
 
-### 5. Нормализация ID
-
-```bash
-npx ts-node src/humanDataset/normalizeIds.ts
-```
-
-### 6. Фильтрация по токенам
-
-RuBERT имеет лимит 512 токенов. Фильтруем записи, оставляя только тексты < 500 токенов.
+### 5. Фильтрация по токенам
 
 ```bash
-npx ts-node src/humanDataset/filterByTokens.ts
+npx ts-node humanDataset/filterByTokens.ts
 ```
 
-Скрипт:
+RuBERT имеет лимит 512 токенов. Скрипт:
 - Использует токенизатор `bert-base-multilingual-cased`
 - Фильтрует записи с количеством токенов < 500
+- Переиндексирует записи
 - Создаёт `*Filtered.json` файлы
-
-| Датасет | До | После | Удалено |
-|---------|-----|-------|---------|
-| fullHumanDataset | 9965 | 9290 | 675 |
-| trainingHumanDataset | 200 | 116 | 84 |
 
 ## Формат записи
 
@@ -99,7 +98,7 @@ npx ts-node src/humanDataset/filterByTokens.ts
 
 | Датасет | Записей |
 |---------|---------|
-| fullHumanDataset.json | 9965 |
-| fullHumanDatasetFiltered.json | 9290 |
+| fullHumanDataset.json | ~10200 |
+| fullHumanDatasetFiltered.json | ~9500 |
 | trainingHumanDataset.json | 200 |
-| trainingHumanDatasetFiltered.json | 116 |
+| trainingHumanDatasetFiltered.json | ~116 |

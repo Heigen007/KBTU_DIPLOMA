@@ -3,6 +3,8 @@ import * as fs from "fs";
 import * as path from "path";
 
 const MAX_TOKENS = 500;
+const baseDir = __dirname;
+const outputDir = path.join(baseDir, "output");
 
 let tokenizer: any = null;
 
@@ -28,7 +30,7 @@ interface DatasetEntry {
 }
 
 async function filterDataset(inputFile: string, outputFile: string) {
-    console.log(`\nProcessing: ${inputFile}`);
+    console.log(`\nProcessing: ${path.basename(inputFile)}`);
 
     const data: DatasetEntry[] = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
     console.log(`Total entries: ${data.length}`);
@@ -47,24 +49,28 @@ async function filterDataset(inputFile: string, outputFile: string) {
         }
     }
 
-    console.log(`Filtered entries (< ${MAX_TOKENS} tokens): ${filtered.length}`);
-    console.log(`Removed: ${data.length - filtered.length}`);
+    // Переиндексация
+    const reindexed = filtered.map((entry, index) => ({
+        ...entry,
+        id: index + 1
+    }));
 
-    fs.writeFileSync(outputFile, JSON.stringify(filtered, null, 2), "utf-8");
-    console.log(`Saved to: ${outputFile}`);
+    console.log(`Filtered entries (< ${MAX_TOKENS} tokens): ${reindexed.length}`);
+    console.log(`Removed: ${data.length - reindexed.length}`);
+
+    fs.writeFileSync(outputFile, JSON.stringify(reindexed, null, 2), "utf-8");
+    console.log(`Saved to: ${path.basename(outputFile)}`);
 }
 
 async function main() {
-    const dir = path.dirname(__filename);
-
     await filterDataset(
-        path.join(dir, "fullHumanDataset.json"),
-        path.join(dir, "fullHumanDatasetFiltered.json")
+        path.join(outputDir, "fullHumanDataset.json"),
+        path.join(outputDir, "fullHumanDatasetFiltered.json")
     );
 
     await filterDataset(
-        path.join(dir, "trainingHumanDataset.json"),
-        path.join(dir, "trainingHumanDatasetFiltered.json")
+        path.join(outputDir, "trainingHumanDataset.json"),
+        path.join(outputDir, "trainingHumanDatasetFiltered.json")
     );
 
     console.log("\nDone!");
