@@ -32,6 +32,7 @@
     "cls-hooked": "^4.2.2",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
+    "emoji-regex": "^10.6.0",
     "express": "^5.1.0",
     "nodemon": "^3.1.10",
     "openai": "^5.23.2",

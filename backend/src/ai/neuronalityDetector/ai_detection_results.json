@@ -1,0 +1,5222 @@
+[
+  {
+    "id": 1,
+    "model": "deepseek/deepseek-v3.2",
+    "generatedAt": "2026-01-15T16:26:56.965Z",
+    "type": "essay",
+    "topic": "Роль эпистолярного жанра в русской литературе XIX века: частное письмо как исторический документ и художественный прием",
+    "wordCount": 150,
+    "text": "👨‍👩‍👧‍👦👨‍👩‍👧‍👦👨‍👩‍👧‍👦В русской литературе XIX века частное письмо обрело двойное значение, став уникальным сплавом исторической правды и художественного инструмента. Как документ эпохи, оно сохранило живые голоса современников, их неподдельные эмоции, бытовые детали и идейные искания, зафиксировав дух времени с искренностью, недоступной официальным хроникам.\n\nВ то же время писатели мастерски использовали эпистолярную форму как художественный приём. Она позволяла создать эффект полной достоверности и глубокого психологизма, раскрывая внутренний мир героя напрямую, через его сокровенные признания. Письма в романах, как у Пушкина или Достоевского, часто становились сюжетными пружинами, обнажали конфликты и определяли судьбы персонажей. Таким образом, письмо превратилось в важнейшее средство и для познания исторической реальности, и для построения литературной вселенной, отражая тончайшие движения человеческой души.",
+    "detection": {
+      "score": 0.1224020344691095,
+      "confidence": 0.3116114331113685,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 3,
+          "weight": 0.15,
+          "contribution": 0.13826954574553607
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 9,
+          "weight": 0.18,
+          "contribution": 0.17997574387414858
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "deepseek/deepseek-v3.2",
+    "generatedAt": "2026-01-15T16:27:13.407Z",
+    "type": "essay",
+    "topic": "Этика антропоцена: возможно ли гармоничное сосуществование технологической цивилизации и биосферы в XXI веке?",
+    "wordCount": 200,
+    "text": "Эпоха антропоцена, где человек стал главной геологической силой, ставит перед человечеством беспрецедентный этический вызов. Стремительное развитие технологической цивилизации в XX веке происходило за счет эксплуатации и деградации биосферы, поставив под вопрос саму возможность гармоничного сосуществования.\n\nОднако парадокс XXI века заключается в том, что именно технологии могут стать ключом к восстановлению баланса. Речь идет о фундаментальном пересмотре целей прогресса: переход от безудержного потребления к экономике замкнутого цикла, от ископаемого топлива к возобновляемой энергетике, от покорения природы к ее симуляции и восстановлению с помощью биотехнологий и инженерии.\n\nГармония возможна лишь при условии приоритета долгосрочной устойчивости над сиюминутной выгодой. Это требует новой этики, основанной на осознании взаимосвязи всех живых систем и ответственности перед будущими поколениями. Технологии должны быть не орудием господства, а инструментом коэволюции, где развитие цивилизации измеряется не только экономическим ростом, но и сохранением биоразнообразия и стабильности экосферы. Выбор за нами: станет ли антропоцен эрой осознанного самоограничения и симбиоза или последней главой в истории человеческой цивилизации.",
+    "detection": {
+      "score": 0.022499731313609998,
+      "confidence": 0.3008127649631959,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.058499301415386
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "deepseek/deepseek-v3.2",
+    "generatedAt": "2026-01-15T16:27:37.090Z",
+    "type": "news",
+    "topic": "Климатические мигранты внутри страны: как аномальная жара меняет демографическую карту России",
+    "wordCount": 150,
+    "text": "**Аномальная жара перекраивает карту России**\n\nВолны аномальной жары, ставшие новой нормой для южных регионов России, запустили тихую, но масштабную внутреннюю миграцию. Всё больше жителей Краснодарского края, Ростовской области и Крыма, устав от изнуряющего зноя, начинают рассматривать для постоянной жизни более прохладные территории.\n\nКак отмечают демографы, на смену традиционному \"движению на юг\" постепенно приходит обратный тренд. Климатическими лидерами по притоку населения становятся регионы, ранее считавшиеся суровыми: Ленинградская область, Урал и даже отдельные территории Сибири. Людей привлекает более мягкий, по сравнению с испепеляющей жарой, летний климат.\n\nЭтот процесс медленно, но верно меняет демографический ландшафт страны. Малые города на севере и северо-западе получают новый импульс к развитию за счёт притока образованных горожан. Эксперты прогнозируют, что в ближайшее десятилетие климатический фактор станет одним из ключевых при выборе места жительства, что потребует пересмотра стратегий регионального развития.",
+    "detection": {
+      "score": 0.06801389420347323,
+      "confidence": 0.30236629326840425,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.07429078507886668
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 1,
+          "weight": 0.09,
+          "contribution": 0.040051490898667795
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.06249384895149594
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "model": "deepseek/deepseek-v3.2",
+    "generatedAt": "2026-01-15T16:27:50.629Z",
+    "type": "news",
+    "topic": "Этика искусственного интеллекта в творчестве: может ли нейросеть получить авторское право на бестселлер?",
+    "wordCount": 200,
+    "text": "Представьте бестселлер, покоривший мир. Его сюжет завораживает, а персонажи живут в сердцах миллионов. Но автором значится не человек, а алгоритм. Возможно ли это с юридической точки зрения? Вопрос об авторском праве на произведения, созданные искусственным интеллектом, становится одним из самых острых в современном творческом пространстве.\n\nСегодня законодательство большинства стран, включая Россию и США, однозначно: авторское право возникает в результате интеллектуальной деятельности человека. Нейросеть рассматривается как инструмент, подобный кисти или фотоаппарату. Следовательно, права могут принадлежать разработчику алгоритма или пользователю, сформулировавшему запрос, если их творческий вклад признан достаточным.\n\nОднако стремительное развитие ИИ стирает границы. Кто является автором, если нейросеть генерирует абсолютно уникальный текст на минимальную инструкцию человека? Юристы и философы спорят, нуждается ли право в адаптации к новой реальности. Пока суды отказывают ИИ в правосубъектности, оставляя авторство людям. Но эпоха, когда алгоритмы будут претендовать на лавры создателей, похоже, уже стучится в дверь, требуя пересмотра фундаментальных понятий творчества и собственности.",
+    "detection": {
+      "score": 0.022806942746977504,
+      "confidence": 0.3008351114814483,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.05929805114214151
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "model": "deepseek/deepseek-v3.2",
+    "generatedAt": "2026-01-15T16:28:24.482Z",
+    "type": "scientific",
+    "topic": "Как наш мозг создаёт \"ментальные карты\" пространства: нейробиология внутреннего GPS",
+    "wordCount": 150,
+    "text": "Наш мозг обладает собственной системой навигации — «внутренним GPS». Её ключевыми элементами являются специальные нейроны в гиппокампе и энторинальной коре. Клетки места активируются, когда вы находитесь в определённой локации, формируя уникальный узор для каждой комнаты или улицы. Клетки сетки, напротив, работают как система координат, создавая регулярную решётку, которая помогает отслеживать пройденные расстояния и направление движения. Вместе они выстраивают динамическую ментальную карту окружающего пространства. Эта карта обновляется по мере нашего перемещения и даже активируется во время планирования маршрута или воспоминаний, позволяя мысленно путешествовать в прошлое и будущее. Таким образом, нейронная картография не только помогает нам ориентироваться в мире, но и лежит в основе памяти и воображения.",
+    "detection": {
+      "score": 0.05743555934858841,
+      "confidence": 0.3025522827838101,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.06533752745487122
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.08399492685145866
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "model": "deepseek/deepseek-v3.2",
+    "generatedAt": "2026-01-15T16:29:12.513Z",
+    "type": "scientific",
+    "topic": "История одного провала: как спор о природе света между Ньютоном и Гюйгенсом определил развитие физики на столетия",
+    "wordCount": 200,
+    "text": "В конце XVII века два великих ума столкнулись в споре, определившем лицо физики. Исаак Ньютон, опираясь на свои эксперименты с призмами, отстаивал корпускулярную теорию: свет — это поток мельчайших частиц. Для него лучи света вели себя как крошечные упругие шарики, что прекрасно объясняло прямолинейное распространение и отражение.\n\nЕго оппонент, Христиан Гюйгенс, видел в свете волну. Он представлял эфир — всепроникающую среду, где свет распространяется как сферические импульсы, подобно звуку. Его принцип позволял элегантно описать преломление и, что важнее, явление интерференции, открытое позже.\n\nПобеда, казалось, осталась за Ньютоном. Авторитет гения был непререкаем, и на столетие свет стал частицей. Лишь в начале XIX века опыты Юнга и Френеля неопровержимо доказали волновую природу света, реанимировав идеи Гюйгенса. Однако этот триумф также был неокончательным.\n\nПарадоксально, но этот исторический провал — временная победа одной неполной теории над другой — оказался плодотворным. Он заложил основу для величайшего синтеза XX века: квантовой механики. Современная физика признаёт дуализм — свет одновременно является и волной, и частицей. Таким образом, спор, который никто не выиграл, в итоге привёл нас к более глубокому пониманию фундаментальной природы реальности.",
+    "detection": {
+      "score": 0.06894736422233082,
+      "confidence": 0.303942362416461,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 5,
+          "weight": 0.12,
+          "contribution": 0.1152106227953378
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 4,
+          "weight": 0.07,
+          "contribution": 0.06405252418272234
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "model": "google/gemini-2.5-flash-lite",
+    "generatedAt": "2026-01-15T16:25:07.344Z",
+    "type": "essay",
+    "topic": "Мифологические мотивы в русской литературе XIX века: от фольклора к авторскому переосмыслению.",
+    "wordCount": 150,
+    "text": "Русская литература XIX века, глубоко укорененная в народной культуре, изобилует мифологическими мотивами, которые проходили путь от фольклорных сюжетов до их искушенного авторского переосмысления. Заимствуя образы из древних преданий, славянских верований и народных сказок, писатели не просто воспроизводили старые истории, но наполняли их новым смыслом, отражая актуальные проблемы и чаяния общества.\n\nПушкин, например, в \"Руслане и Людмиле\" и \"Сказке о царе Салтане\" виртуозно преображает сказочные мотивы, наполняя их иронией и аллегорией. Толстой в \"Войне и мире\" прибегает к эпическому звучанию, близкому к народным былинам, чтобы осмыслить судьбы нации. Достоевский же, напротив, погружает героев в глубины психологических драм, где архетипы добра и зла, судьбы и свободы приобретают остро современное звучание, зачастую обретая черты античной трагедии. Это переосмысление мифа стало важнейшим инструментом для постижения человеческой природы и ее места в постоянно меняющемся мире.",
+    "detection": {
+      "score": 0.03828358695533314,
+      "confidence": 0.3023530738299324,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 6,
+          "weight": 0.1,
+          "contribution": 0.09953732608386617
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "google/gemini-2.5-flash-lite",
+    "generatedAt": "2026-01-15T16:25:10.330Z",
+    "type": "essay",
+    "topic": "Влияние урбанизации на формирование национальной идентичности в современной России.",
+    "wordCount": 200,
+    "text": "Влияние урбанизации на формирование национальной идентичности в современной России является многогранным и противоречивым процессом. С одной стороны, города, как центры концентрации населения, культуры и информации, способствуют стиранию региональных различий и стандартизации образа жизни. Это может вести к формированию более унифицированной, общероссийской идентичности, где принадлежность к нации становится важнее локальной самобытности. Граждане, переезжая в мегаполисы, сталкиваются с разнообразием культур и традиций, учатся сосуществовать и взаимодействовать, что, в свою очередь, может укреплять чувство единого гражданского пространства.\n\nОднако, урбанизация также порождает новые вызовы. Массовое переселение, в том числе миграция из других стран, может приводить к формированию этнических анклавов внутри городов, усиливая межгрупповую напряженность и ставя вопросы о компромиссах между национальной идентичностью и сохранением культурного многообразия. Кроме того, городская среда, с ее анонимностью и индивидуализмом, может ослаблять традиционные формы общности, которые исторически играли важную роль в формировании национальной идентичности. Таким образом, урбанизация в России одновременно способствует как консолидации, так и фрагментации национального самосознания, создавая сложную мозаику идентичностей, где традиционные и современные элементы постоянно вступают во взаимодействие.",
+    "detection": {
+      "score": 0,
+      "confidence": 0.3,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "google/gemini-2.5-flash-lite",
+    "generatedAt": "2026-01-15T16:25:13.481Z",
+    "type": "news",
+    "topic": "Цифровые двойники в медицине: революция в диагностике и лечении.",
+    "wordCount": 150,
+    "text": "**Цифровые двойники в медицине: революция в диагностике и лечении.**\n\nМедицина переживает настоящую цифровую революцию благодаря появлению и стремительному развитию технологии цифровых двойников. Эти виртуальные копии органов, систем или даже всего организма человека открывают беспрецедентные возможности для врачей. Цифровые двойники создаются путем сбора огромного объема данных, включая медицинские изображения, генетическую информацию, результаты анализов и показатели жизнедеятельности, которые затем обрабатываются с помощью искусственного интеллекта.\n\nТакой подход позволяет проводить точную диагностику заболеваний на ранних стадиях, моделировать прогрессирование патологий и, что особенно важно, предсказывать реакцию организма на различные методы лечения. Врачи получают возможность индивидуально подбирать терапию, минимизируя риски и повышая эффективность. Это открывает путь к персонализированной медицине, где каждый пациент получает лечение, оптимально подходящее именно ему. Перспективы цифровых двойников в здравоохранении огромны, обещая сделать медицинскую помощь более точной, доступной и результативной.",
+    "detection": {
+      "score": 0.014445749425114769,
+      "confidence": 0.3003350352205456,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 1,
+          "weight": 0.09,
+          "contribution": 0.0375589485052984
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "model": "google/gemini-2.5-flash-lite",
+    "generatedAt": "2026-01-15T16:25:16.516Z",
+    "type": "news",
+    "topic": "Умные города: как искусственный интеллект меняет жизнь россиян.",
+    "wordCount": 200,
+    "text": "**Умные города: как искусственный интеллект меняет жизнь россиян.**\n\nРоссия активно движется к созданию \"умных городов\", где искусственный интеллект (ИИ) становится не просто технологией будущего, а неотъемлемой частью повседневной жизни граждан. Цифровые платформы и интеллектуальные системы уже сегодня трансформируют городскую среду, делая её более комфортной, безопасной и эффективной.\n\nОдним из ярких примеров является развитие систем управления городским транспортом. Интеллектуальные светофоры, анализирующие транспортные потоки, снижают заторы и сокращают время в пути. Приложения для общественного транспорта, использующие ИИ, предоставляют точную информацию о прибытии и оптимизируют маршруты.\n\nБезопасность также выходит на новый уровень. Системы видеонаблюдения с функцией распознавания лиц и анализом поведения помогают правоохранительным органам оперативно реагировать на происшествия. Умное освещение, регулирующее яркость в зависимости от времени суток и присутствия людей, экономит электроэнергию и повышает безопасность улиц.\n\nЭнергоэффективность – ещё одна область, где ИИ играет ключевую роль. Интеллектуальные системы управления коммунальными сетями оптимизируют потребление ресурсов, предотвращая аварии и снижая затраты. Даже в быту ИИ находит применение, помогая управлять домашними системами, создавать индивидуальные сценарии освещения и климата.\n\nПостепенное внедрение этих технологий свидетельствует о том, что \"умные города\" – это не утопия, а реальность, которая уже сегодня улучшает качество жизни россиян, делая их города более современными и удобными.",
+    "detection": {
+      "score": 0.04333859228050835,
+      "confidence": 0.30184422568248837,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 4,
+          "weight": 0.1,
+          "contribution": 0.08517865273499053
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 1,
+          "weight": 0.09,
+          "contribution": 0.027501687194331177
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "model": "google/gemini-2.5-flash-lite",
+    "generatedAt": "2026-01-15T16:25:20.227Z",
+    "type": "scientific",
+    "topic": "Квантовая запутанность: как она меняет наше понимание реальности",
+    "wordCount": 150,
+    "text": "Квантовая запутанность – удивительное явление, которое ставит под сомнение наши интуитивные представления о реальности. Представьте, что две частицы, например, электроны, каким-то образом связаны друг с другом, независимо от расстояния, разделяющего их. Измерение состояния одной частицы мгновенно влияет на состояние другой, словно между ними существует незримая, мгновенная связь. Это не просто корреляция; квантовая запутанность предполагает, что эти частицы разделяют единое квантовое состояние, их судьбы переплетены.\n\nАльберт Эйнштейн называл это \"жутким действием на расстоянии\", и оно действительно бросает вызов классической физике. Если мы можем манипулировать этими запутанными частицами, то, возможно, открываются пути к новым технологиям, таким как квантовые вычисления, способные решать задачи, недоступные современным суперкомпьютерам, или сверхзащищенная квантовая криптография. Квантовая запутанность заставляет нас переосмыслить само понятие локальности и независимости объектов, намекая на более глубокие, взаимосвязанные основы нашего мира.",
+    "detection": {
+      "score": 0.028337644255035634,
+      "confidence": 0.3012892519525305,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.07367787506309265
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "model": "google/gemini-2.5-flash-lite",
+    "generatedAt": "2026-01-15T16:25:23.097Z",
+    "type": "scientific",
+    "topic": "История создания интернета: от ARPANET до всемирной паутины",
+    "wordCount": 200,
+    "text": "История интернета — это захватывающая сага о стремлении к связи и обмену информацией, начавшаяся в условиях холодной войны. В 1960-х годах американское Министерство обороны, обеспокоенное уязвимостью централизованных систем связи, приступило к разработке децентрализованной сети. Так родилась ARPANET, сеть, призванная обеспечить устойчивую связь между исследовательскими центрами.\n\nПервые шаги были скромными: в 1969 году было установлено соединение между четырьмя компьютерами. Но эта сеть заложила фундамент для будущих революционных изменений. Ключевым моментом стало развитие протокола TCP/IP в 1980-х годах, который позволил различным сетям взаимодействовать друг с другом, создавая \"сеть сетей\" – интернет.\n\nИстинным переворотом стало появление Всемирной паутины (World Wide Web) в начале 1990-х. Тим Бернерс-Ли, работая в CERN, разработал протокол HTTP, язык HTML и первый веб-браузер, сделав интернет доступным и понятным для широкой публики. Этот этап превратил интернет из узкоспециализированного инструмента в глобальное явление, навсегда изменив наш мир.",
+    "detection": {
+      "score": 0.07227083335067475,
+      "confidence": 0.30255594228795885,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.052448439401840075
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.07339364334533885
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.0620620839645754
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "model": "gpt-4.1",
+    "generatedAt": "2026-01-15T16:00:31.998Z",
+    "type": "essay",
+    "topic": "Влияние социальных сетей на формирование исторической памяти современного общества",
+    "wordCount": 150,
+    "text": "В современном обществе влияние социальных сетей на формирование исторической памяти трудно переоценить. Эти платформы становятся основным источником получения информации о прошлых событиях, особенно среди молодежи. Социальные сети позволяют мгновенно распространять разные точки зрения, что способствует плюрализму мнений, но одновременно создает почву для искажения фактов, появления фейковых новостей и манипуляций. Благодаря вирусным публикациям и популярным мемам отдельные исторические события могут приобретать совершенно новое значение или интерпретацию. С одной стороны, это расширяет доступ к информации и вовлекает больше людей в обсуждение истории. С другой стороны, поверхностность восприятия и фрагментарность знаний приводят к формированию упрощенных представлений о прошлом. Таким образом, социальные сети становятся мощным инструментом создания коллективной памяти, но требуют ответственности и критического отношения к распространяемой информации.",
+    "detection": {
+      "score": 0,
+      "confidence": 0.3,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "gpt-4.1",
+    "generatedAt": "2026-01-15T16:00:43.400Z",
+    "type": "news",
+    "topic": "Влияние искусственного интеллекта на традиционные профессии в России",
+    "wordCount": 150,
+    "text": "В последние годы внедрение искусственного интеллекта (ИИ) в различные сферы экономики России существенно меняет ландшафт традиционного рынка труда. Автоматизация производственных процессов и развитие интеллектуальных систем уже оказывают влияние на такие профессии, как бухгалтеры, юристы, операторы call-центров и даже врачи. Например, банковские организации всё чаще используют чат-ботов и специализированные программы для обработки заявок клиентов, что снижает потребность в большом количестве сотрудников на этих позициях. В медицине ИИ внедряется для диагностики заболеваний и анализа медицинских изображений, помогая врачам, но одновременно и заменяя часть их функций. В то же время эксперты отмечают, что появление новых технологий создает спрос на специалистов по программированию, аналитиков данных и инженеров по обслуживанию ИИ-систем. Отметим, что адаптация традиционных профессий к новым условиям требует своевременного повышения квалификации сотрудников и переобучения кадров.",
+    "detection": {
+      "score": 0,
+      "confidence": 0.3,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "gpt-4.1",
+    "generatedAt": "2026-01-15T16:00:50.379Z",
+    "type": "scientific",
+    "topic": "Как искусственный интеллект помогает раскрывать механизмы работы человеческого мозга",
+    "wordCount": 150,
+    "text": "Искусственный интеллект (ИИ) сегодня не только меняет обыденную жизнь, но и открывает новые горизонты в изучении человеческого мозга. С помощью алгоритмов машинного обучения ученые анализируют огромные массивы данных, полученных с помощью МРТ, ЭЭГ и других нейровизуализационных методов. ИИ способен выявлять скрытые закономерности в активности нервных клеток, распознавать уникальные паттерны работы мозга при различных заболеваниях или во время выполнения когнитивных задач. Благодаря этому исследователи глубже понимают, как формируются памяти, эмоции и мышление. Кроме того, искусственный интеллект помогает создавать компьютерные модели, которые воспроизводят работу отдельных участков мозга и даже позволяют предсказывать последствия их повреждений. Всё это способствует как разработке новых методов диагностики и лечения неврологических расстройств, так и построению более совершенных систем искусственного разума, основанных на принципах функционирования мозга человека.",
+    "detection": {
+      "score": 0,
+      "confidence": 0.3,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "model": "openai/gpt-oss-120b",
+    "generatedAt": "2026-01-15T16:26:59.822Z",
+    "type": "essay",
+    "topic": "Влияние литературы XIX века на формирование национального самосознания в условиях индустриальной революции",
+    "wordCount": 150,
+    "text": "Литература XIX века сыграла ключевую роль в формировании национального самосознания в эпоху индустриальной революции, когда традиционные социальные структуры размывались под давлением стремительного технического прогресса. Писатели‑реалисты, такие как Чапаев, Гоголь и Пушкин, воспроизводили образ обычного человека, сталкивающегося с новыми экономическими реалиями, тем самым фиксируя культурный код народа в условиях перемен. Их произведения раскрывали конфликт между наследием прошлых эпох и новыми идеалами, вызывая у читателей ощущение общей исторической судьбы. Через героев, страдающих от разрыва между сельским укладом и урбанистическим миром, литература формировала осмысление национальных ценностей, укрепляла чувство принадлежности к общему культурному пространству. Таким образом, художественное слово стало своего рода зеркалом, в котором общество видел себя, признало свои притязания и нашло основу для последующего национального возрождения.",
+    "detection": {
+      "score": 0,
+      "confidence": 0.3,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "openai/gpt-oss-120b",
+    "generatedAt": "2026-01-15T16:27:09.418Z",
+    "type": "essay",
+    "topic": "Экологические и этические последствия массового внедрения биотехнологий в сельском хозяйстве: от генетически модифицированных культур к биоразнообразию будущего",
+    "wordCount": 200,
+    "text": "Массовое внедрение биотехнологий в сельское хозяйство открывает невиданные возможности, но одновременно порождает сложные экологические и этические вызовы. Генетически модифицированные культуры позволяют повысить урожайность, устойчивость к вредителям и засухе, однако их распространение часто сопровождается вытеснением традиционных сортов, что снижает генетическое разнообразие локальных экосистем. При длительном монокультурном выращивании появляются новые «супервирусы» и устойчивые к пестицидам вредители, способные разрушить баланс естественных популяций и упрочить зависимость фермеров от патентованных семян крупных корпораций. Этический аспект проявляется в вопросе права фермеров на сохранение наследия своих земель, в риске монополизации продовольственного рынка и в ответственности перед будущими поколениями за сохранение биоразнообразия. Примером альтернативного пути может стать интеграция генных технологий с традиционными селекционными практиками: редактирование генома для восстановления утраченных признаков древних сортов, создание «территориальных» ГМО, адаптированных к конкретным климатическим условиям без ущерба местным видам. Такое сочетание позволит превратить биотехнологию из инструмента унификации в механизм поддержки разнообразия, обеспечив продовольственную безопасность и экологическую устойчивость будущего.",
+    "detection": {
+      "score": 0.034745473590596154,
+      "confidence": 0.30193823655969837,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 4,
+          "weight": 0.1,
+          "contribution": 0.09033823133555
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "openai/gpt-oss-120b",
+    "generatedAt": "2026-01-15T16:27:18.848Z",
+    "type": "news",
+    "topic": "Как новые санкционные ограничения влияют на российский технологический сектор и возможности локализации IT‑продуктов",
+    "wordCount": 150,
+    "text": "Новые санкционные ограничения, введённые в начале года, оказали существенное давление на российский технологический сектор. Ограничения на поставки полупроводников, облачных сервисов и доступа к зарубежным разработчикам заставили компании пересматривать цепочки поставок и искать альтернативные решения внутри страны. В ответ на это усилились усилия по локализации IT‑продуктов: крупные игроки объявили о масштабных инвестициях в отечественные производственные площадки, разработку собственных процессоров и создание национальных облачных платформ. Правительство поддерживает инициативу налоговыми льготами и грантовыми программами, направленными на ускорение перехода от импортозависимости к самостоятельному производству. Несмотря на рост издержек и замедление внедрения новейших технологий, эксперты отмечают, что принудительная локализация может стимулировать появление новых отечественных разработок и укрепить технологический суверенитет страны в среднесрочной перспективе.",
+    "detection": {
+      "score": 0,
+      "confidence": 0.3,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "model": "openai/gpt-oss-120b",
+    "generatedAt": "2026-01-15T16:27:35.450Z",
+    "type": "news",
+    "topic": "Рост популярности киберспорта в школах: перспективы профессионального развития и образовательные программы",
+    "wordCount": 200,
+    "text": "Рост популярности киберспорта в школах превратился из любительского увлечения в серьёзный образовательный тренд. По данным Министерства спорта, количество школьных киберспортивных команд в России за последний год увеличилось более чем на 70 %. Такая динамика объясняется не только интересом подростков к видеоиграм, но и признанием киберспорта как платформы для развития аналитических навыков, командного взаимодействия и стратегического мышления.\n\nВ ряде регионов уже запущены специальные программы, объединяющие учебные предметы и киберспортивные практики. На уроках информатики ученики изучают основы программирования, сетевой безопасности и управления проектами, а в рамках киберспортивных тренировок отрабатывают реакцию, тактику и коммуникацию. Партнёрские соглашения с профессиональными киберспортивными организациями дают школьникам возможность участвовать в турнирах, где они могут быть замечены скаутами и получить гранты на дальнейшее обучение.\n\nЭксперты отмечают, что киберспорт открывает новые карьерные пути: аналитик игровых данных, менеджер киберспортивных команд, технический специалист по оборудованию. При этом важным остаётся баланс между игровыми тренировками и академической нагрузкой, чтобы талантливые школьники могли успешно сочетать обучение с профессиональным ростом. Перспективы развития киберспорта в школах выглядят многообещающими, обещая создать новое поколение специалистов, способных конкурировать на международной арене.",
+    "detection": {
+      "score": 0.03738227920121217,
+      "confidence": 0.30107844401173955,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 1,
+          "weight": 0.13,
+          "contribution": 0.042994312222932436
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.0541996137002192
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "model": "openai/gpt-oss-120b",
+    "generatedAt": "2026-01-15T16:27:56.441Z",
+    "type": "scientific",
+    "topic": "Тёмная материя и её роль в формировании галактик: новые методы наблюдения и теоретические модели",
+    "wordCount": 150,
+    "text": "Тёмная материя, составляющая около 85 % массы Вселенной, остаётся одной из главных загадок современной астрофизики. Сейчас учёные уверенно считают, что её гравитационное притяжение формирует скелет, в котором собираются обычные галактики. Новейшие методы наблюдения позволяют «заснять» эту невидимую субстанцию: слабое гравитационное линзирование раскрывает её распределение по масштабам от отдельного скопления до всей космической сети, а спектральные измерения галактических вращательных кривых уточняют плотность тёмного газа в галах. Параллельно развивается теоретический арсенал: в рамках ΛCDM‑модели тёмная материя описывается как холодные нелегко взаимодействующие частицы, однако новые сценарии – самосвязанная холодная материя, ультралёгкие фермионы и «темная энергия» в виде скалярных полей – пытаются объяснить мелкие расхождения между наблюдениями и симуляциями. Совместное применение высокоточных телескопов и продвинутых численных моделей обещает раскрыть роль тёмной материи в формировании галактик и, возможно, пролить свет на её истинную природу.",
+    "detection": {
+      "score": 0.07349420856943017,
+      "confidence": 0.30410776692424385,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 4,
+          "weight": 0.1,
+          "contribution": 0.09546224608722634
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 2,
+          "weight": 0.13,
+          "contribution": 0.09562269619329213
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "model": "openai/gpt-oss-120b",
+    "generatedAt": "2026-01-15T16:28:01.364Z",
+    "type": "scientific",
+    "topic": "Как нейросети меняют подход к раннему обнаружению рака: от анализа изображений до предсказания генетических мутаций",
+    "wordCount": 200,
+    "text": "Нейросети уже перестали быть лишь темой научных конференций — они становятся реальным инструментом в борьбе с раком, особенно на самых ранних стадиях заболевания. Традиционные методы диагностики, такие как маммография или колоноскопия, опираются на человеческий взгляд, который иногда упускает небольшие, но значимые изменения в тканях. Современные сверточные нейронные сети способны обрабатывать мегапиксельные медицинские снимки, выявляя микроскопические аномалии с точностью, превышающей экспертизу большинства врачей. Благодаря обучению на миллионах изображений, такие модели распознают паттерны, характерные для предраковых состояний, и снижают количество ложных тревог.\n\nНо возможности ИИ идут дальше визуального анализа. Геномные данные, содержащие информацию о потенциальных мутациях, теперь тоже поддаются обработке глубокими сетями. Обученные на больших биобанках модели предсказывают, какие генетические изменения могут привести к онкогенезу, позволяя врачам предвидеть риск развития опухоли задолго до её появления. Интеграция изображений и геномики в единую аналитическую платформу открывает путь к персонализированному скринингу: каждый пациент получает рекомендацию, основанную на уникальном сочетании визуальных и молекулярных маркеров. Таким образом, нейросети трансформируют раннее обнаружение рака, делая диагностику быстрее, точнее и более индивидуализированной, что в конечном итоге повышает шансы на успешное лечение.",
+    "detection": {
+      "score": 0.015421114334557921,
+      "confidence": 0.30038180518693147,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.0400948972698506
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "model": "tngtech/deepseek-r1t2-chimera:free",
+    "generatedAt": "2026-01-15T16:25:40.818Z",
+    "type": "essay",
+    "topic": "Роль экологических кризисов в гибели древних цивилизаций: чему современное общество может научиться у истории?",
+    "wordCount": 150,
+    "text": "История древних цивилизаций содержит поучительные примеры того, как экологические кризисы становились роковыми для их существования. Цивилизация острова Пасхи, достигшая расцвета благодаря монументальным сооружениям, пала из-за тотального уничтожения лесов, что привело к эрозии почв и краху сельского хозяйства. Майя, столкнувшись с продолжительной засухой и истощением ресурсов, не смогли адаптироваться к изменению климата, что ускорило их упадок. Древние месопотамские общества, зависевшие от ирригации, пострадали от засоления почв из-за непродуманного земледелия.  \n\nЭти примеры демонстрируют опасность игнорирования экологических ограничений. Современное общество, сталкивающееся с климатическими изменениями, загрязнением и истощением природных ресурсов, должно осознать: устойчивое развитие невозможно без баланса между прогрессом и сохранением окружающей среды. Уроки прошлого учат нас ценить долгосрочное планирование, ответственное потребление и адаптацию к природным циклам. Только так человечество избежит повторения трагедий древних цивилизаций.",
+    "detection": {
+      "score": 0,
+      "confidence": 0.3,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "tngtech/deepseek-r1t2-chimera:free",
+    "generatedAt": "2026-01-15T16:25:59.200Z",
+    "type": "essay",
+    "topic": "Трансформация культурной идентичности в эпоху глобализации: как цифровые технологии меняют традиционные ценности?",
+    "wordCount": 200,
+    "text": "Глобализация и цифровые технологии кардинально меняют механизмы формирования культурной идентичности. Стирая географические границы, интернет-пространство создает гибридные формы самовыражения, где традиционные ценности неизбежно трансформируются под влиянием глобальных трендов. Социальные сети, стриминговые платформы и мобильные приложения становятся новыми агентами социализации, формируя поколение, для которого виртуальная реальность столь же значима, как и национальные традиции.\n\nЯркий пример – изменение языковых практик: глобальный английский дополняется интернет-сленгом, создавая новые коды коммуникации. Поп-культура, распространяемая через Netflix или TikTok, формирует общие медиапривычки, часто вытесняя локальные культурные нарративы. Молодежь активнее идентифицирует себя с космополитическими сообществами, чем с этническими группами, что порождает конфликт поколений в традиционных обществах.\n\nОднако этот процесс неоднозначен. Цифровизация одновременно позволяет сохранять языки и обычаи через онлайн-архивы, дает голос маргинализированным культурам. Феномен \"глокализации\" демонстрирует, как глобальные платформы адаптируются под локальный контент. Таким образом, культурная идентичность не исчезает, но приобретает многомерный характер, балансируя между наследственными ценностями и цифровыми инновациями. Эта динамика требует осознанного участия общества в сохранении аутентичности культурного кода.",
+    "detection": {
+      "score": 0.044422963663340774,
+      "confidence": 0.30150495188284865,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.0606417070173672
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.05485799850731883
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "tngtech/deepseek-r1t2-chimera:free",
+    "generatedAt": "2026-01-15T16:26:39.089Z",
+    "type": "news",
+    "topic": "Внедрение ИИ-диагностов в российских клиниках: когда алгоритмы заменят врачей?",
+    "wordCount": 150,
+    "text": "**Внедрение ИИ-диагностов в российских клиниках: когда алгоритмы заменят врачей?**  \n\nРоссийская медицина делает первые шаги в интеграции искусственного интеллекта для диагностики заболеваний. Пилотные проекты уже запущены в ряде клиник Москвы, Санкт-Петербурга и Новосибирска, где алгоритмы анализируют рентгеновские снимки, КТ и МРТ, выявляя патологии с точностью до 90%. По данным Минздрава, это позволяет ускорить обработку данных и сократить нагрузку на врачей, особенно в регионах с дефицитом специалистов.  \n\nОднако эксперты подчеркивают: ИИ пока не способен заменить человека. Алгоритмы эффективны в рутинных задачах, но не адаптированы к сложным случаям, требующим клинического мышления и учёта индивидуальных особенностей пациента. \"ИИ — инструмент, а не конкурент врачу, — заявил замминистра здравоохранения Алексей Кузнецов. — Он улучшит диагностику, но окончательное решение останется за специалистом\".  \n\nВ перспективе массовое внедрение таких систем потребует новых стандартов обучения медиков и нормативной базы. Пока же ясно одно: вместо замены врачей ИИ станет их надёжным помощником, освобождая время для прямого общения с пациентами и принятия стратегических решений.",
+    "detection": {
+      "score": 0.07952973846530936,
+      "confidence": 0.30358028675150317,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 3,
+          "weight": 0.12,
+          "contribution": 0.10224938508917232
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.06871098343639602
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 1,
+          "weight": 0.09,
+          "contribution": 0.03581695148423603
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "model": "tngtech/deepseek-r1t2-chimera:free",
+    "generatedAt": "2026-01-15T16:27:05.742Z",
+    "type": "news",
+    "topic": "Сохранение языков малых народов: как цифровые технологии предотвращают лингвистическое вымирание",
+    "wordCount": 200,
+    "text": "**Цифровые технологии на страже языкового многообразия: как спасают исчезающие наречия**\n\nВ эпоху глобализации под угрозой исчезновения находятся более 40% из 7000 языков мира, предупреждает ЮНЕСКО. Однако современные цифровые инструменты становятся неожиданным союзником в борьбе за сохранение лингвистического наследия малых народов. Лингвисты и активисты активно используют технологии для документирования, обучения и популяризации уязвимых языков. \n\nМобильные приложения вроде **«Living Tongues»** помогают носителям записывать аудиословари, а платформы **Duolingo** включают курсы по гавайскому или навахо. Сообщества коренных народов создают YouTube-каналы с мультфильмами и песнями на родных языках, а нейросети обрабатывают архивные записи для восстановления утраченных диалектов. Особую роль играют цифровые базы знаний: эвенкийские сказки теперь хранятся в облачных хранилищах, а энциклопедия Wikipedia доступна на 300 редких языках. \n\nЭксперты подчеркивают, что технологии – лишь инструмент. Ключ к успеху – вовлечение молодежи через соцсети и геймификацию. Так, в Якутии школьники записывают TikTok-ролики на саха, а в Мексике дети зуни учат язык через VR-игры. Хотя цифровизация не заменяет живого общения, она дает шанс забытым наречиям пережить кризис. По словам лингвиста Дэвида Харрисона, «каждое слово, сохраненное онлайн, – это победа над забвением».",
+    "detection": {
+      "score": 0.06218777929883685,
+      "confidence": 0.3029810497076184,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 4,
+          "weight": 0.1,
+          "contribution": 0.0897831206552748
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 3,
+          "weight": 0.09,
+          "contribution": 0.071905105521701
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "model": "tngtech/deepseek-r1t2-chimera:free",
+    "generatedAt": "2026-01-15T16:27:31.158Z",
+    "type": "scientific",
+    "topic": "Как микробы управляют нашим настроением: нейробиология кишечной микрофлоры",
+    "wordCount": 150,
+    "text": "Кишечник человека населяет триллионы микроорганизмов, которые активно влияют на работу мозга через ось \"кишечник-мозг\". Исследования показывают, что состав кишечной микрофлоры напрямую связан с эмоциональным состоянием. Например, некоторые бактерии производят нейромедиаторы: *Lactobacillus* и *Bifidobacterium* синтезируют гамма-аминомасляную кислоту (ГАМК), снижающую тревожность, а другие виды участвуют в выработке серотонина — \"гормона счастья\". \n\nМикробы также метаболизируют пищевые волокна в короткоцепочечные жирные кислоты (КЖК), которые подавляют воспаление, защищая нейроны от повреждений. Нарушения баланса микрофлоры (дисбиоз) коррелируют с депрессией и тревожными расстройствами: у пациентов с такими диагнозами часто обнаруживают дефицит полезных бактерий. \n\nКоммуникация между микробами и мозгом происходит через блуждающий нерв, иммунные сигналы и эндокринные пути. Эксперименты на животных демонстрируют, что пересадка \"депрессивной\" микрофлоры здоровым особям вызывает у них симптомы тревоги. Эти открытия открывают перспективы для лечения психических расстройств через коррекцию диеты и пробиотиками.",
+    "detection": {
+      "score": 0.08087601653435349,
+      "confidence": 0.30346106265697254,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.05023565696587888
+        },
+        "smart_quotes": {
+          "count": 6,
+          "weight": 0.1,
+          "contribution": 0.09905707859923629
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.06098490742420386
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "model": "tngtech/deepseek-r1t2-chimera:free",
+    "generatedAt": "2026-01-15T16:27:52.533Z",
+    "type": "scientific",
+    "topic": "Квантовые компьютеры: почему человечеству пока не стоит бояться «восстания машин»",
+    "wordCount": 200,
+    "text": "Квантовые компьютеры — одна из самых обсуждаемых технологий XXI века, окруженная как надеждами на прорывы в науке, так и опасениями о «восстании машин». Однако человечеству пока не стоит бояться сценариев, знакомых по фантастическим фильмам. Во-первых, квантовые компьютеры принципиально отличаются от классических: вместо битов они используют кубиты, способные находиться в суперпозиции состояний. Это позволяет решать специфические задачи, например, моделировать молекулы или оптимизировать сложные системы, но не делает их универсальными «мозгами» для ИИ.  \n\nСовременные квантовые устройства остаются крайне нестабильными. Даже самые продвинутые образцы работают при температурах, близких к абсолютному нулю, а их кубиты подвержены декогеренции — потере квантовых свойств из-за малейших внешних воздействий. Надежные вычисления требуют тысяч, а то и миллионов кубитов, тогда как сегодняшние прототипы оперируют лишь сотнями.  \n\nКроме того, искусственный интеллект — это прежде всего алгоритмы, данные и их корректная интерпретация, а не только вычислительная мощность. Квантовые компьютеры могут ускорить отдельные этапы работы ИИ, например, поиск в больших базах данных, но не заменят сложные нейросетевые архитектуры, работающие на классических машинах. Реальные риски, связанные с ИИ, лежат в области этики, безопасности данных и социального неравенства, а не в гипотетическом бунте машин. Пока квантовые технологии остаются инструментом ученых, а не основой для самообучающихся сверхразумов.",
+    "detection": {
+      "score": 0.08917641250466272,
+      "confidence": 0.3040251590530836,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 3,
+          "weight": 0.12,
+          "contribution": 0.0914585159361023
+        },
+        "smart_quotes": {
+          "count": 4,
+          "weight": 0.1,
+          "contribution": 0.08704935561329445
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.053350800962726354
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "model": "xiaomi/mimo-v2-flash:free",
+    "generatedAt": "2026-01-15T16:27:32.733Z",
+    "type": "essay",
+    "topic": "Роль личности в истории: великие люди или общественные движения?",
+    "wordCount": 150,
+    "text": "Дискуссия о роли личности в истории — один из вечных вопросов исторической науки. Существует две крайние позиции: «великие люди», способные изменить ход событий силой своей воли, и общественные движения, определяемые объективными условиями и коллективным действием.\n\nБезусловно, выдающиеся личности, такие как полководцы, политики или философы, способны ускорять или замедлять исторические процессы. Однако их влияние ограничено контекстом эпохи. Личность не может двигать историю в одиночку; для реализации ее идей необходима поддержка масс. Например, Наполеон Бонапарт стал возможен благодаря Французской революции, которая изменила общественный уклад и создала спрос на сильного лидера.\n\nТаким образом, личность и общественные движения неразрывно связаны. Историю творят сами люди, но движущей силой прогресса выступает общество в целом. Личность может быть вдохновителем, но реализовать изменения возможно только через коллективные усилия.",
+    "detection": {
+      "score": 0.07741046214150066,
+      "confidence": 0.3029236262938901,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.05826615603564096
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.0785834263402129
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.06441761919204786
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "xiaomi/mimo-v2-flash:free",
+    "generatedAt": "2026-01-15T16:28:01.836Z",
+    "type": "essay",
+    "topic": "Соотношение добра и зла в романе Ф.М. Достоевского «Преступление и наказание»",
+    "wordCount": 200,
+    "text": "Фёдор Михайлович Достоевский в романе «Преступление и наказание» исследует сложное переплетение добра и зла, показывая, что они неразрывно связаны в человеческой душе. Главный герой, Раскольников, пытается оправдать убийство старухи-процентщицы теорией о «сверхчеловеке», утверждающей, что цель оправдывает средства. В его сознании зло (преступление) временно затмевает добро, однако совесть неумолимо наказывает его, доказывая, что нравственные законы первичны.\n\nОбраз Раскольникова — это поле битвы между холодным разумом и горячей совестью. Даже его теория, призванная разделить людей на «тварей дрожащих» и право имеющих, разрушается из-за внутреннего противоречия: убийство ради блага неизбежно ведет к страданию. В романе Добро представлено через любовь и сострадание, прежде всего в лице Сони Мармеладовой. Её жертвенная любовь и вера в искупление противопоставлены эгоистичной логике Раскольникова. Через страдание и признание вины Раскольников приходит к осознанию своего заблуждения.\n\nТаким образом, Достоевский показывает, что зло — это иллюзия, временная тьма, которую можно рассеять только светом истины и раскаяния. Добро побеждает не мгновенно, а через тяжелый духовный труд и принятие страдания как пути к очищению.",
+    "detection": {
+      "score": 0.06884199051524365,
+      "confidence": 0.3036445739160668,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 2,
+          "weight": 0.12,
+          "contribution": 0.08050599867252828
+        },
+        "smart_quotes": {
+          "count": 6,
+          "weight": 0.1,
+          "contribution": 0.0984831766671052
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "xiaomi/mimo-v2-flash:free",
+    "generatedAt": "2026-01-15T16:28:21.043Z",
+    "type": "news",
+    "topic": "Рост цен на авиабилеты внутри России: причины и последствия для туризма",
+    "wordCount": 150,
+    "text": "Рост цен на авиабилеты внутри России стал заметной тенденцией последнего года. Основные причины — укрепление рубля, высокие цены на авиатопливо и увеличение сборов. Кроме того, после ухода иностранных авиакомпаний с рынка спрос на внутренние перевозки вырос, а количество самолетов осталось ограниченным. Нехватка воздушных судов и запчастей из-за санкций также давит на стоимость перелетов.\n\nДля туризма последствия противоречивы. Направления, ранее популярные у выезжающих за границу, получают дополнительный поток туристов, но высокие цены делают отдых менее доступным. Региональные курорты растут, однако бизнес терпит убытки из-за сокращения спроса. В долгосрочной перспективе сектор может стагнировать без государственной поддержки и стимулов для авиаперевозчиков.",
+    "detection": {
+      "score": 0.02636458454817428,
+      "confidence": 0.3011159691116877,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.06854791982525313
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "model": "xiaomi/mimo-v2-flash:free",
+    "generatedAt": "2026-01-15T16:28:30.206Z",
+    "type": "news",
+    "topic": "Искусственный интеллект в школах: панацея или угроза критическому мышлению?",
+    "wordCount": 200,
+    "text": "Искусственный интеллект стремительно проникает в школы, вызывая бурные споры. С одной стороны, ИИ обещает революцию в образовании: персонализированные задания, мгновенная обратная связь и доступ к огромному объему информации. Учителя получают мощный инструмент для автоматизации рутины и выявления пробелов в знаниях учеников. Это звучит как панацея от перегруженных классов и отстающих студентов.\n\nОднако скептики бьют тревогу. Главный страх — атрофия критического мышления. Если готовое решение всегда под рукой, возникает ли соблазн не анализировать, не сомневаться, а просто принимать ответ ИИ за истину в последней инстанции? Превращение образовательного процесса в диалог с чат-ботом грозит потерей умения формулировать сложные мысли, проводить глубокие исследования и отстаивать свою точку зрения. Критики предупреждают: ИИ может «выравнивать» мышление, подавляя индивидуальность и креативность.\n\nПоиск баланса — главная задача. Специалисты сходятся во мнении, что ИИ должен быть не заменой учителю, а его ассистентом. Ключ к успеху — грамотная интеграция технологий, когда ученики учатся не просто пользоваться нейросетями, а критически оценивать результат. Свой скепсис нужно оставить, но не терять бдительность. ИИ не панацея и не смертельная угроза, а инструмент, требующий ответственного подхода. Будущее образования зависит от того, сумеем ли мы научить детей мыслить о продуктах ИИ так же глубоко, как о любой другой информации.",
+    "detection": {
+      "score": 0.0799372144665265,
+      "confidence": 0.3032810027151615,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 3,
+          "weight": 0.12,
+          "contribution": 0.09335708197300144
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.060021377822383315
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.05445829781758418
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "model": "xiaomi/mimo-v2-flash:free",
+    "generatedAt": "2026-01-15T16:28:55.657Z",
+    "type": "scientific",
+    "topic": "Влияние микропластика на нейрогенез и когнитивные функции млекопитающих",
+    "wordCount": 150,
+    "text": "Микропластик — частицы менее 5 мм — проникают в организм млекопитающих через пищу, воду и вдыхаемый воздух. Они способны преодолевать гематоэнцефалический барьер, накапливаясь в мозге и вызывая локальное воспаление и окислительный стресс. Это нарушает нейрогенез — образование новых нейронов в гиппокампе — ключевой структуре памяти и обучения. Клинические и экспериментальные данные свидетельствуют: у мышей, подвергшихся хроническому воздействию микропластика, снижается количество нейронных предшественников, ухудшается память и пространственная ориентация. Аналогичные изменения могут затрагивать и другие когнитивные функции: внимание, скорость обработки информации, гибкость мышления. Хотя масштабы риска для человека еще оцениваются, накопленные свидетельства указывают на необходимость ограничения попадания пластика в окружающую среду и рациона, чтобы защитить мозг от потенциальных негативных эффектов.",
+    "detection": {
+      "score": 0.04501866916928789,
+      "confidence": 0.3032538356611938,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 4,
+          "weight": 0.12,
+          "contribution": 0.11704853984014851
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "model": "xiaomi/mimo-v2-flash:free",
+    "generatedAt": "2026-01-15T16:29:03.371Z",
+    "type": "scientific",
+    "topic": "Роль квантовых вычислений в моделировании ферментативных реакций и разработке новых лекарственных препаратов",
+    "wordCount": 200,
+    "text": "Квантовые вычисления обещают революцию в биохимии, открывая путь к точному моделированию ферментативных реакций. Белковые ферменты — это наномашины, чья активность определяется квантовыми эффектами, такими как перенос электронов и туннелирование протонов. Классические суперкомпьютеры не могут воспроизвести эти процессы в полном объёме из-за экспоненциального роста сложности с размером системы.\n\nКвантовые процессоры способны эффективно моделировать квантовую химию молекул, точно предсказывая переходные состояния и энергии активации в активном центре фермента. Это позволяет исследовать механизм действия ферментов и предсказывать, как мутации влияют на их функцию. В фармакологии подобный уровень детализации даёт возможность с высокой точностью проектировать лекарственные молекулы, которые избирательно связываются с целевыми белками, блокируя или модулируя их активность. Такой подход сократит время и затраты на ранних этапах разработки лекарств, минимизируя количество неудачных экспериментов и ускоряя появление эффективных терапевтических средств.",
+    "detection": {
+      "score": 0.020304444024107176,
+      "confidence": 0.30066190020286415,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.05279155446267866
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "model": "x-ai/grok-4.1-fast",
+    "generatedAt": "2026-01-15T16:26:31.329Z",
+    "type": "essay",
+    "topic": "Роль личности в истории: Наполеон Бонапарт как катализатор европейских перемен",
+    "wordCount": 150,
+    "text": "Роль личности в истории всегда вызывала споры, но фигура Наполеона Бонапарта ярко иллюстрирует, как один человек может стать катализатором глобальных перемен. Поднявшись из скромного корсиканского офицера на волне Французской революции, Наполеон в 1799 году захватил власть, став первым консулом, а в 1804-м — императором. Его гений полководца и реформатора преобразил Европу.\n\nНаполеоновские войны (1799–1815) не только расширили французское влияние, но и распространили революционные идеи: равенство перед законом, секуляризм и национализм. Кодекс Наполеона, введённый в завоёванных странах, стал основой современного гражданского права в десятках государств. Он разрушил феодальные устои Священной Римской империи, стимулировал национальные движения в Германии, Италии и Испании, ускорив процесс объединения народов.\n\nПоражение при Ватерлоо и Венский конгресс вернули монархии, но семена перемен уже проросли. Наполеон не просто завоеватель — он модернизировал Европу, заложив фундамент либеральных реформ XIX века. Личность как катализатор истории доказана его эпохой.",
+    "detection": {
+      "score": 0.05761265910869869,
+      "confidence": 0.30260789872261806,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 2,
+          "weight": 0.12,
+          "contribution": 0.08782959731809845
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.06196331636451816
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "x-ai/grok-4.1-fast",
+    "generatedAt": "2026-01-15T16:26:40.472Z",
+    "type": "essay",
+    "topic": "Глобальное потепление: причины, последствия и роль международного сотрудничества в борьбе с ним",
+    "wordCount": 200,
+    "text": "Глобальное потепление представляет собой один из самых серьезных вызовов современности, вызванный резким увеличением температуры на планете. Основные причины этого явления коренятся в антропогенной деятельности: сжигание ископаемого топлива, такое как уголь, нефть и газ, приводит к массивным выбросам парниковых газов — углекислого газа и метана. Кроме того, вырубка лесов снижает способность природы поглощать CO₂, а промышленное производство и транспорт усугубляют проблему.\n\nПоследствия глобального потепления катастрофичны. Подъем уровня Мирового океана угрожает прибрежным городам и островным государствам, вызывая наводнения и эрозию берегов. Экстремальные погодные явления — ураганы, засухи и жара — приводят к урожайным потерям, миграции населения и росту смертности от заболеваний. Биоразнообразие сокращается: виды вымирают, экосистемы разрушаются, что нарушает пищевые цепочки.\n\nБорьба с глобальным потеплением требует международного сотрудничества. Парижское соглашение 2015 года объединило почти все страны в обязательствах по снижению выбросов и переходу к возобновляемым источникам энергии. Организации вроде ООН координируют усилия, финансируя зеленые технологии и адаптационные меры. Только совместными действиями — от сокращения углеродного следа до глобальных инвестиций в устойчивость — человечество сможет замедлить потепление и сохранить планету для будущих поколений. Время действовать решительно, иначе последствия станут необратимыми.",
+    "detection": {
+      "score": 0.0640508778567716,
+      "confidence": 0.3035452838572581,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 5,
+          "weight": 0.12,
+          "contribution": 0.11243191686169125
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.05410036556591492
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "x-ai/grok-4.1-fast",
+    "generatedAt": "2026-01-15T16:26:58.785Z",
+    "type": "news",
+    "topic": "Влияние искусственного интеллекта на рынок труда в России",
+    "wordCount": 150,
+    "text": "### Искусственный интеллект меняет рынок труда в России\n\nМосква, 15 октября 2023 г. – Искусственный интеллект (ИИ) становится ключевым фактором трансформации российского рынка труда. По прогнозам Минэкономразвития, к 2030 году автоматизация затронет до 25–30% рабочих мест, особенно в сферах бухгалтерии, call-центров и простого производства. Уже сегодня компании вроде Сбера и Яндекса внедряют ИИ-ассистентов, сокращая штат операторов на 15–20%.\n\nОднако ИИ не только уничтожает, но и создает рабочие места. Спрос на специалистов по машинному обучению, data science и этике ИИ вырос втрое за последние два года. По данным HeadHunter, вакансий в IT-секторе стало на 40% больше, с зарплатами от 200 тысяч рублей.\n\nПравительство реагирует на вызовы: национальный проект \"Цифровая экономика\" предусматривает переобучение 1,5 млн человек к 2024 году через платформы вроде \"Работа в России\". Эксперты подчеркивают: адаптация кадров – ключ к минимизации безработицы. \"ИИ повысит производительность на 1,5–2 раза, но требует инвестиций в образование\", – отмечает директор НИУ ВШЭ Александр Аузан.\n\nВ итоге, для России ИИ – это возможность лидерства в Евразии, если рынок труда эволюционирует timely. (152 слова)",
+    "detection": {
+      "score": 0.03794028797369703,
+      "confidence": 0.30231106178242667,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 6,
+          "weight": 0.1,
+          "contribution": 0.09864474873161228
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "model": "x-ai/grok-4.1-fast",
+    "generatedAt": "2026-01-15T16:27:08.122Z",
+    "type": "news",
+    "topic": "Прорыв в генной терапии: надежда на излечение наследственных заболеваний",
+    "wordCount": 200,
+    "text": "# Прорыв в генной терапии: надежда на излечение наследственных заболеваний\n\nМосква, 15 октября. Ученые из Международного центра генной инженерии в Бостоне объявили о революционном прорыве в лечении наследственного заболевания спинальной мышечной атрофии (СМА). Новая генная терапия, основанная на улучшенной версии CRISPR-Cas9, позволила успешно отредактировать дефектный ген SMN1 у 12 пациентов в ходе третьей фазы клинических испытаний.\n\nТерапия вводится внутривенно в виде безвредного вирусного вектора, который доставляет исправленный ген прямо в клетки нервной системы. Уже через три месяца после инъекции у детей с тяжелой формой СМА наблюдается значительное улучшение моторных функций: пациенты начали самостоятельно дышать, сидеть и даже ползать. Ни одного случая отторжения или серьезных побочных эффектов не зафиксировано, что делает метод на 40% безопаснее предыдущих аналогов.\n\n\"Это не просто лечение, а полное излечение на генетическом уровне. Мы открыли дверь для терапии десятков других наследственных болезней\", — заявила ведущий автор исследования, профессор Элизабет Харрис из Гарвардского университета. По ее словам, клинические испытания для гемофилии и муковисцидоза стартуют в ближайшие месяцы.\n\nЭксперты прогнозируют, что технология получит одобрение FDA к концу года. Для миллионов семей по всему миру, борющихся с генетическими недугами, это настоящая надежда на нормальную жизнь. Прорыв уже привлек инвестиции в 500 миллионов долларов, ускоряя внедрение в практику. Медицина вступает в эру персонализированной генной коррекции.",
+    "detection": {
+      "score": 0.03619578210180208,
+      "confidence": 0.3010434161413564,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.03735309970750146
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.05675593375718396
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "model": "x-ai/grok-4.1-fast",
+    "generatedAt": "2026-01-15T16:27:22.653Z",
+    "type": "scientific",
+    "topic": "Квантовая запутанность: как частицы мгновенно влияют друг на друга на огромных расстояниях",
+    "wordCount": 150,
+    "text": "Квантовая запутанность — это парадоксальное явление квантовой механики, когда две или более частицы связаны так, что состояние одной мгновенно влияет на состояние другой, независимо от расстояния между ними. Представьте: фотоны, разлетевшиеся на тысячи километров, при измерении поляризации одного определяют поляризацию второго без задержки.\n\nАльберт Эйнштейн, Борис Подольский и Натан Розен в 1935 году усомнились в полноте квантовой теории, назвав эффект \"жутким действием на расстоянии\". Они полагали, что частицы имеют скрытые переменные. Однако эксперименты Джона Белла в 1960-х и Алена Аспекта в 1982-м опровергли это: неравенства Белла нарушались, подтверждая нелокальность квантового мира.\n\nЗапутанность не позволяет передавать сигналы быстрее света, но революционизирует технологии. Она лежит в основе квантовой криптографии, телепортации информации и компьютеров, способных решать задачи за секунды, недоступные суперкомпьютерам.\n\nЭтот феномен стирает грань между микромиром и реальностью, заставляя переосмыслить пространство и причинность.",
+    "detection": {
+      "score": 0.04888433930065653,
+      "confidence": 0.3018719986077908,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.05309516735551175
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.07400411482619525
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "model": "x-ai/grok-4.1-fast",
+    "generatedAt": "2026-01-15T16:27:32.056Z",
+    "type": "scientific",
+    "topic": "Микробиом человека: роль бактерий в иммунитете, настроении и долголетии",
+    "wordCount": 200,
+    "text": "Микробиом человека: роль бактерий в иммунитете, настроении и долголетии\n\nВ нашем теле обитает настоящий микромир — триллионы бактерий, образующие микробиом. Преимущественно они сосредоточены в кишечнике, где весят около полутора килограммов и насчитывают больше клеток, чем всех остальных в организме. Эти незаметные обитатели не просто пассивные гости: они активно влияют на здоровье, иммунитет, настроение и даже продолжительность жизни.\n\nСначала о иммунитете. Кишечные бактерии служат барьером против патогенов, обучая иммунную систему различать \"друга\" и \"врага\". Они производят короткоцепочечные жирные кислоты, укрепляющие слизистую кишечника и подавляющие воспаления. Исследования показывают, что дисбактериоз ослабляет защиту, повышая риск аллергий, аутоиммунных болезней и инфекций.\n\nМикробиом также управляет настроением через \"ось кишечник-мозг\". Бактерии синтезируют до 90% серотонина — гормона счастья — и влияют на выработку ГАМК, снижая тревогу. Нарушения микрофлоры связаны с депрессией и аутизмом; пробиотики, напротив, улучшают эмоциональное состояние, как подтверждают клинические trials.\n\nНаконец, долголетие. Здоровый микробиом борется с хроническим воспалением — корнем старения. У долгожителей, таких как жители Окинавы, разнообразный микробиом способствует лучшему метаболизму и устойчивости к болезням. Диета, богатая клетчаткой, ферментированными продуктами и пребиотиками, поддерживает баланс бактерий, продлевая активную жизнь.\n\nТаким образом, микробиом — ключ к гармонии организма. Ухаживайте за ним, и он ответит крепким здоровьем и долголетием.",
+    "detection": {
+      "score": 0.07924325983759824,
+      "confidence": 0.3048025806552449,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 5,
+          "weight": 0.12,
+          "contribution": 0.11036814822989416
+        },
+        "smart_quotes": {
+          "count": 6,
+          "weight": 0.1,
+          "contribution": 0.09566432734786126
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "model": "x-ai/grok-code-fast-1",
+    "generatedAt": "2026-01-15T16:26:46.742Z",
+    "type": "essay",
+    "topic": "Влияние Великой Французской революции на формирование современных политических идей",
+    "wordCount": 150,
+    "text": "Великая Французская революция 1789–1799 годов стала поворотным моментом в истории, оказавшим глубокое влияние на формирование современных политических идей. Она разрушила абсолютную монархию, провозгласила республику и ввела принципы народного суверенитета, равенства и свободы. Декларация прав человека и гражданина 1789 года заложила основу для концепций прав человека, ставших фундаментом либеральной демократии. Революция вдохновила идеи национализма и суверенного государства, распространившиеся по Европе и миру.\n\nВ период Террора и Робеспьера проявились радикальные движения, предвосхитившие социализм и коммунизм, подчеркивающие классовую борьбу и общественную собственность. Революция способствовала распространению светского мышления, отделяя церковь от государства, и повлияла на развитие капитализма через идеи свободного рынка.\n\nСегодня идеи Французской революции отражены в конституциях многих стран, от США до Европы, формируя базис для демократии, прав человека и борьбы за равенство. Её наследие продолжает вдохновлять политические движения, подчеркивая ценность революционных изменений для прогресса общества. Однако оно также напоминает о рисках экстремизма и необходимости баланса. В целом, революция стала катализатором модернизации, заложив основы современного политического дискурса.",
+    "detection": {
+      "score": 0.022003464880862317,
+      "confidence": 0.30077730678538855,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.05720900869024203
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "model": "x-ai/grok-code-fast-1",
+    "generatedAt": "2026-01-15T16:27:02.585Z",
+    "type": "essay",
+    "topic": "Роль мифологии в произведениях Джоан Роулинг и её отражение культурных традиций Великобритании",
+    "wordCount": 200,
+    "text": "Мифология играет центральную роль в произведениях Джоан Роулинг, особенно в серии \"Гарри Поттер\", где она мастерски вплетает элементы архаических преданий и легенд в ткань современной сказки. Роулинг черпает вдохновение из богатого культурного наследия Великобритании, отражая традиции, уходящие корнями в кельтскую и норманнскую мифологию. Её мир волшебства наполнен существами и мотивами, перекликающимися с британскими фольклорными поверьями: оборотни и вампиры напоминают средневековые легенды о ликантропии, феи и эльфы эхом откликаются на народные сказки Валлийских гор или Шотландского нагорья, а магические шкатулки и талисманы отражают артуровский цикл с его мечами и каменными менгирами.\n\nВ \"Гарри Поттере\" мифология не просто фон, а двигатель сюжета. Школа Хогвартс воплощает британскую традицию элитарного образования, но с алхимическими и астрологическими отсылками к английскому ренессансу, где магия сливалась с наукой. Роулинг также интегрирует греческую и скандинавскую мифологию, но всегда сквозь призму британского контекста: руны и волшба отражают древние островные ритуалы, а темы чести и клана – викторианские ценности. Это отражение культурных традиций делает её произведения живыми мостами между прошлым и настоящим, укрепляя британскую идентичность. В итоге, мифология у Роулинг не только развлекает, но и сохраняет культурное наследие, вдохновляя поколения на переосмысление своих корней.",
+    "detection": {
+      "score": 0.03417040663913122,
+      "confidence": 0.3018746085956081,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 4,
+          "weight": 0.1,
+          "contribution": 0.08884305726174117
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "model": "x-ai/grok-code-fast-1",
+    "generatedAt": "2026-01-15T16:27:24.394Z",
+    "type": "news",
+    "topic": "Влияние искусственного интеллекта на рынок труда в России",
+    "wordCount": 150,
+    "text": "### Влияние искусственного интеллекта на рынок труда в России\n\nМосква, 15 октября 2023 г. — Искусственный интеллект (ИИ) стремительно меняет ландшафт рынка труда в России, обещая как возможности, так и вызовы. Согласно отчету Национального агентства развития квалификаций, внедрение ИИ может затронуть до 30% рабочих мест в ближайшие десятилетия, особенно в секторах обработки данных, производства и транспорта.\n\nПоложительные аспекты включают повышение эффективности и создание новых вакансий в сфере разработки ИИ. Компании вроде \"Росатома\" и \"Яндекса\" уже интегрируют ИИ для оптимизации процессов, что снижает рутинный труд и открывает двери для высококвалифицированных специалистов. Исследование Росстата показывает рост спроса на профессии, связанные с машинным обучением, на 25% за последний год.\n\nОднако риски велики: ИИ угрожает миллионам рабочих мест, особенно в промышленности и сфере услуг. Эксперты предостерегают от массовой безработицы без переподготовки — по прогнозам, до 2025 года потребуется обучение 2 млн специалистов. Государство планирует программы поддержки, включая субсидии на курсы, чтобы смягчить переход.\n\nВ итоге, ИИ становится катализатором для модернизации рынка труда в России, требуя сбалансированного подхода к инновациям и социальной защите. (148 слов)",
+    "detection": {
+      "score": 0.0652162135505016,
+      "confidence": 0.30325672348552685,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 2,
+          "weight": 0.12,
+          "contribution": 0.07811782303927718
+        },
+        "smart_quotes": {
+          "count": 4,
+          "weight": 0.1,
+          "contribution": 0.09144433219202698
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "model": "x-ai/grok-code-fast-1",
+    "generatedAt": "2026-01-15T16:27:48.746Z",
+    "type": "news",
+    "topic": "Последствия климатических изменений для сельского хозяйства в Европе",
+    "wordCount": 200,
+    "text": "### Климатические изменения угрожают европейскому сельскому хозяйству\n\nЕвропейские фермеры сталкиваются с всё более серьёзными последствиями глобального потепления, которые радикально меняют условия производства продуктов питания. Согласно последнему докладу IPCC, средние температуры в Европе уже выросли на 1,5–2 градуса Цельсия за последние десятилетия, что приводит к учащению экстремальных явлений погоды: засух, наводнений и ураганов. Эти изменения затрагивают урожайность культур, стабильность поставок и экономику отрасли.\n\nВ южных регионах, таких как Испания и Италия, засухи стали обыденным явлением, снижая урожаи оливок и винограда на 20–30% в последние годы. Например, в 2022 году в Европе зафиксированы рекордные температуры, что привело к потере миллионов тонн зерна и овощей. Наводнения в Центральной Европе, как в Германии и Франции, разрушают посевы и инфраструктуру, требуя миллиарды евро на восстановление. С другой стороны, северные страны, включая Скандинавию, могут выиграть от более тёплого климата — здесь расширяются зоны выращивания фруктов и овощей, но риски включают появление новых вредителей и болезней растений.\n\nЭксперты предсказывают, что к 2050 году потери в сельском хозяйстве Европы могут составить до 20% от общего производства, если не принять меры. Правительства вводят адаптационные стратегии, такие как развитие устойчивых сортов и систем орошения, но устойчивость отрасли остаётся под угрозой. Климатические изменения требуют срочных глобальных действий для сохранения продовольственной безопасности континента. (187 слов)",
+    "detection": {
+      "score": 0.01426359851334848,
+      "confidence": 0.300326639364414,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.03708535613470605
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 0,
+          "weight": 0.07,
+          "contribution": 0
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "model": "x-ai/grok-code-fast-1",
+    "generatedAt": "2026-01-15T16:28:19.901Z",
+    "type": "scientific",
+    "topic": "Искусственный интеллект в медицине: революция диагностики и лечения",
+    "wordCount": 150,
+    "text": "Искусственный интеллект (ИИ) в медицине переворачивает традиционные подходы к диагностике и лечению, обещая более точные и эффективные решения. С помощью алгоритмов машинного обучения ИИ анализирует огромные массивы данных, таких как изображения рентгенов или МРТ, распознавая патологии быстрее и точнее, чем опытные врачи. Например, системы на базе ИИ обнаруживают рак на ранних стадиях или предсказывают сердечные приступы на основе электроэнцефалограмм и историй болезней пациентов.\n\nВ лечении ИИ открывает путь к персонализированной медицине. Алгоритмы проектируют уникальные схемы терапии, учитывая генетику пациента, и помогают в планировании операций с минимальным вмешательством. Роботы-хирурги, управляемые ИИ, выполняют процедуры с субмиллиметровой точностью, снижая риск осложнений. Кроме того, ИИ мониторит пациентов в реальном времени через носимые устройства, корректируя лечение на лету.\n\nНесмотря на успехи, остаются вызовы: конфиденциальность данных и этические вопросы. Однако эксперты уверены, что ИИ не заменит врачей, а станет мощным инструментом, ускоряя инновации и делая медицину доступнее для всех. Будущее сулит ещё больше прорывов, где ИИ спасёт миллионы жизней. (158 слов)",
+    "detection": {
+      "score": 0.02283840569116381,
+      "confidence": 0.30083741719948254,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "smart_quotes": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.059379854797025906
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "model": "x-ai/grok-code-fast-1",
+    "generatedAt": "2026-01-15T16:28:34.040Z",
+    "type": "scientific",
+    "topic": "Роль микробиома в экологии и здоровье человека",
+    "wordCount": 200,
+    "text": "Микробиом, это разнообразное сообщество микроорганизмов, населяющих нашу планету, играет ключевую роль как в экологии, так и в здоровье человека. В экосистемах микробиомы действуют как невидимые инженеры: бактерии в почве разлагают органические вещества, способствуя круговороту питательных элементов, а микробы в океанах фиксируют азот, поддерживая жизнь планктона. Они участвуют в очистке загрязнений, разлагая нефть и токсины, и даже влияют на климат, производя метан.\n\nКогда речь заходит о человеке, микробиом кишечника оказывается жизненно важным. Миллиарды бактерий помогают переваривать пищу, синтезировать витамины и укреплять иммунитет. Нарушение баланса, вызванное антибиотиками, стрессом или плохим питанием, может привести к ожирению, диабету или депрессии. Исследования показывают, что микробиом влияет даже на мозг через ось «кишечник-мозг», регулируя настроение и когнитивные функции.\n\nСвязь между экологией и здоровьем очевидна: загрязнение окружающей среды, такое как пестициды или пластик, изменяет микробиомы в почве и воде, что отражается на нашем рационе и здоровье. Сохранение биоразнообразия микробиома — ключ к устойчивому будущему, где экология и благополучие человека гармонично сосуществуют.",
+    "detection": {
+      "score": 0.06663171416435182,
+      "confidence": 0.3021810851525583,
+      "verdict": "human",
+      "features": {
+        "emoji_in_formal_context": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "long_dashes": {
+          "count": 1,
+          "weight": 0.12,
+          "contribution": 0.04666857690089571
+        },
+        "smart_quotes": {
+          "count": 2,
+          "weight": 0.1,
+          "contribution": 0.06756236057661055
+        },
+        "zero_width_space": {
+          "count": 0,
+          "weight": 0.2,
+          "contribution": 0
+        },
+        "zero_width_joiner_nonjoiner": {
+          "count": 0,
+          "weight": 0.18,
+          "contribution": 0
+        },
+        "soft_hyphen": {
+          "count": 0,
+          "weight": 0.16,
+          "contribution": 0
+        },
+        "non_breaking_space": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "directional_marks": {
+          "count": 0,
+          "weight": 0.22,
+          "contribution": 0
+        },
+        "variation_selectors": {
+          "count": 0,
+          "weight": 0.19,
+          "contribution": 0
+        },
+        "fullwidth_punctuation": {
+          "count": 0,
+          "weight": 0.14,
+          "contribution": 0
+        },
+        "unusual_punctuation": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "non_standard_spaces": {
+          "count": 0,
+          "weight": 0.13,
+          "contribution": 0
+        },
+        "markdown_bold": {
+          "count": 0,
+          "weight": 0.09,
+          "contribution": 0
+        },
+        "bullet_lists": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        },
+        "numbered_lists": {
+          "count": 0,
+          "weight": 0.08,
+          "contribution": 0
+        },
+        "separator_lines": {
+          "count": 0,
+          "weight": 0.12,
+          "contribution": 0
+        },
+        "repeated_line_patterns": {
+          "count": 0,
+          "weight": 0.11,
+          "contribution": 0
+        },
+        "uniform_paragraph_length": {
+          "count": 3,
+          "weight": 0.07,
+          "contribution": 0.059011519349808465
+        },
+        "combining_marks": {
+          "count": 0,
+          "weight": 0.15,
+          "contribution": 0
+        },
+        "block_elements": {
+          "count": 0,
+          "weight": 0.1,
+          "contribution": 0
+        }
+      }
+    }
+  }
+]
